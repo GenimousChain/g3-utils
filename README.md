@@ -1,2 +1,17 @@
 # g3-utils
-g3-utils 加密工具库
+sets of utils for GenimousChain
+
+* ecc
+* gm
+* test
+
+## Installation
+
+```sh
+$ npm install g3-utils
+```
+
+```javascript
+var G3Utils = require('g3-utils');
+```
+
